@@ -2,7 +2,7 @@
 
 🎓 3rd-year Cybersecurity student at Sheridan College  
 🔐 Passionate about cybersecurity, ethical hacking, and secure software development  
-💻 Experienced in IT infrastructure, software development, and compliance  
+💻 Experienced in IT infrastructure, software development, and compliance 
 📂 Currently learning: Threat Detection, SIEM, Penetration Testing  
 
 ---
