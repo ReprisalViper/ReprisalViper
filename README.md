@@ -10,7 +10,7 @@
 ### 🛠️ Skills
 - **Languages:** Python, Bash, JavaScript, C, SQL  
 - **Cyber Tools:** Wireshark, Metasploit, Nmap, Burp Suite, Nessus  
-- **Security:** Vulnerability assessment, SOC analysis, compliance (ISO, NIST), firewalls  
+- **Security:** Vulnerability assessment, SOC analysis, compliance (ISO, NIST), firewalls 
 - **DevOps:** Git, Docker, Linux, Splunk, Jenkins  
 
 ---
