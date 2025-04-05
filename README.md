@@ -22,6 +22,5 @@
 ### 🔗 Connect With Me
 [LinkedIn](https://www.linkedin.com/in/sidhuyug)  
 [Email](mailto:yugveer.73@gmail.com)
-### Widgets
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reprisalviper&layout=compact)
+
 
