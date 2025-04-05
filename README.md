@@ -16,7 +16,7 @@
 ---
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yugveersidhu&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reprisalviper&show_icons=true&theme=radical)
 
 ---
 ### 🔗 Connect With Me
