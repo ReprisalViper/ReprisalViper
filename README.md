@@ -17,9 +17,10 @@
 
 ### 📈 GitHub Stats
 ![ReprisalViper's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ReprisalViper&show_icons=true&theme=tokyonight&hide_title=false&hide_border=false&cache_seconds=1)
-![GitHub Streak](https://streak-stats.demolab.com?user=ReprisalViper&theme=tokyonight)
-![Trophy](https://github-profile-trophy.vercel.app/?username=ReprisalViper&theme=tokyonight&margin-w=10&column=4)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReprisalViper&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=ReprisalViper&theme=tokyonight&cacheBust=1)
+![Trophy](https://github-profile-trophy.vercel.app/?username=ReprisalViper&theme=tokyonight&margin-w=10&column=4&cacheBust=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReprisalViper&layout=compact&theme=tokyonight&cache_seconds=1)
+
 
 ---
 ### 🔗 Connect With Me
