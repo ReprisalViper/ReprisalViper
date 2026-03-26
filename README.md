@@ -15,14 +15,11 @@
 
 ---
 
-### 📈 GitHub Stats
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ReprisalViper&show_icons=true&theme=tokyonight" />
-</p>
 
+### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReprisalViper&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ReprisalViper&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ReprisalViper&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 ---
