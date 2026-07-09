@@ -1,5 +1,5 @@
 ### 👋 Hey there! I'm Yugveer Singh Sidhu
-
+.
 🎓 4th-year Cybersecurity student at Sheridan College  
 🔐 Passionate about cybersecurity, ethical hacking, and secure software development  
 💻 Experienced in IT infrastructure, software development, and compliance 
